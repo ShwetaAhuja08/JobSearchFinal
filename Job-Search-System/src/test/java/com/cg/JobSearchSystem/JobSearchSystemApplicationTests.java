@@ -1,4 +1,4 @@
-package com.cg.jobsearch.JobSearchSystem;
+package com.cg.JobSearchSystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
